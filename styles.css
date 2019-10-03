@@ -1,3 +1,22 @@
 body{
-
+background-image: url(file:///C:/Users/F233master/Desktop/uxwidtest1-zentraa-master/pattern.png);
+background-position: center;
+}
+h1{
+	color: white;
+	border: solid;
+	border-color: white;
+	background-color: red;
+}
+main{
+	color: white;
+}
+div{
+	background-color: white;
+}
+dt, dd{
+	color: black;
+}
+nav{
+	text-align: center;
 }
